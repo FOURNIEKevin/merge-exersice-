@@ -1,4 +1,13 @@
 Bonjour.
 
-Test de changement branche. Sans gras
-Je met une image:!(/images/test.png)
+<<<<<<< HEAD
+Test de changement branche.
+
+=======
+
+<<<<<<< HEAD
+
+=======
+
+>>>>>>> bugfix
+>>>>>>> master
